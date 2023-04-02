@@ -1,0 +1,1 @@
+Trie* t = new Trie();
