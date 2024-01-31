@@ -28,6 +28,7 @@ int main(){
     inputStack.push(22);
     inputStack.push(29);
     inputStack.push(35);
+    inputStack.push(45);
 
     int count = 0;
 
